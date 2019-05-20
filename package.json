@@ -1,0 +1,9 @@
+{
+  "name": "ebay-api",
+  "version": "1.0.0",
+  "description": "eBay API Project",
+  "main": "index.js",
+  "repository": "https://github.com/3daddict/ebay-api.git",
+  "author": "Michael Salvati",
+  "license": "MIT"
+}
