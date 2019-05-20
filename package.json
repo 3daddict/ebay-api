@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "https://github.com/3daddict/ebay-api.git",
   "author": "Michael Salvati",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "ebay-api": "^1.13.7",
+    "express": "^4.17.0",
+    "request": "^2.88.0"
+  }
 }
